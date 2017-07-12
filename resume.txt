@@ -36,7 +36,7 @@ SKILLS
 - Java
 - CompTIA A+
 
-SOLO PROJECTS
+PROJECTS
 
 CitySounds (Ruby on Rails, React, Redux, PostgreSQL)
 (Live) https://www.citysoundsapp.com/#/
