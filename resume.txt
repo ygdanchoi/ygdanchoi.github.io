@@ -70,6 +70,10 @@ B.A. in Biological Sciences; Concentration in Computational Biology
 - Cumulative GPA: 3.771
 - Relevant Coursework: Intro to Computing Using MATLAB, Object-Oriented Programming & Data Structures, Discrete Structures, Linear Algebra with Applications 
 
+Technical Certifications
+- CompTIA Healthcare IT Technician (Sep 2016 – Present)
+- CompTIA A+ ce (Sep 2016 – Sep 2019)
+
 WORK HISTORY
 
 Simply Vietnamese (Tenafly, NJ; Dec 2016 – Feb 2017)
