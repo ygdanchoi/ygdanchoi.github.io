@@ -81,3 +81,9 @@ Research Assistant
 - Developed, ran, and transcribed protocols for software-controlled calcium imaging experiments, which were consulted by later researchers; abstract accepted at WIP 2016 & pending publication.
 - Introduced Excel VBA and AutoHotkey scripts to automate over half of the data analysis process, collectively saving my colleagues 100+ hours of repetitive tasks; acknowledged in Mol. Pain. 
 - Standardized ADNI clinical data spreadsheets using lookup functions and conditional logic to accelerate statistical analysis; abstract accepted for IARS 2016 conference & pending publication.
+
+Grant Supplies (South Hackensack, NJ; Jun 2011 – Aug 2011)
+Design Intern
+- Collaborated with a graphic designer to draft an original product catalog.
+- Collected and compiled electrical product specifications for e-commerce listings.
+- Wrote a Photoshop JSX batch script to automate cropping & extending product images for e-commerce website, enabling a 10 fold increase in productivity.
