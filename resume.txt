@@ -66,7 +66,7 @@ App Academy (New York, NY; Feb 2017 – May 2017)
 Rigorous full-stack web development bootcamp with 3% acceptance rate, 
 
 Cornell University, College of Arts and Sciences (Ithaca, NY; Aug 2010 – May 2014)
-B.A. in Biological Sciences; Concentration in Computational Biology
+Bachelor of Arts in Biological Sciences; Concentration in Computational Biology
 - Cumulative GPA: 3.771
 - Relevant Coursework: Intro to Computing Using MATLAB, Object-Oriented Programming & Data Structures, Discrete Structures, Linear Algebra with Applications 
 
