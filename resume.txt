@@ -32,7 +32,7 @@ SKILLS
 - Redux
 - Adobe Photoshop
 - R
-- Matlab
+- Python
 - Java
 - CompTIA A+
 
@@ -66,9 +66,13 @@ App Academy (New York, NY; Feb 2017 – May 2017)
 Rigorous full-stack web development bootcamp with 3% acceptance rate, 
 
 Cornell University, College of Arts and Sciences (Ithaca, NY; Aug 2010 – May 2014)
-B.A. in Biological Sciences; Concentration in Computational Biology
+Bachelor of Arts in Biological Sciences; Concentration in Computational Biology
 - Cumulative GPA: 3.771
 - Relevant Coursework: Intro to Computing Using MATLAB, Object-Oriented Programming & Data Structures, Discrete Structures, Linear Algebra with Applications 
+
+Technical Certifications
+- CompTIA Healthcare IT Technician (Sep 2016 – Present)
+- CompTIA A+ ce (Sep 2016 – Sep 2019)
 
 WORK HISTORY
 
@@ -81,3 +85,9 @@ Research Assistant
 - Developed, ran, and transcribed protocols for software-controlled calcium imaging experiments, which were consulted by later researchers; abstract accepted at WIP 2016 & pending publication.
 - Introduced Excel VBA and AutoHotkey scripts to automate over half of the data analysis process, collectively saving my colleagues 100+ hours of repetitive tasks; acknowledged in Mol. Pain. 
 - Standardized ADNI clinical data spreadsheets using lookup functions and conditional logic to accelerate statistical analysis; abstract accepted for IARS 2016 conference & pending publication.
+
+Grant Supplies (South Hackensack, NJ; Jun 2011 – Aug 2011)
+Design Intern
+- Collaborated with a graphic designer to draft an original product catalog.
+- Collected and compiled electrical product specifications for e-commerce listings.
+- Wrote a Photoshop JSX batch script to automate cropping & extending product images for e-commerce website, enabling a 10 fold increase in productivity.
